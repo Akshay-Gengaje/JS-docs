@@ -1,25 +1,25 @@
-36. What is **function composition**?
-37. How do JavaScript functions behave as **first-class citizens**?
-38. What is the difference between **prototype methods and function methods**?
-39. How do you optimize function performance in JavaScript?
-40. What is **tail call optimization**, and how does JavaScript handle it?
-41. How does JavaScript handle **function context (`this`)**?
-42. How can you implement a **custom debounce function**?
-43. How can you implement a **custom throttle function**?
-44. What is **event delegation**, and how does it relate to functions?
-45. What is the difference between **imperative and declarative function styles**?
-46. What is **function arity**?
-47. What are **named vs unnamed function expressions**?
-48. How do you create a function that only runs once (`once` function)?
-49. What is **method chaining**, and how is it implemented?
-50. What is the difference between **private and public functions** in JavaScript?
-51. What is the difference between **var, let, and const** when declaring functions?
-52. What is **tail recursion**, and does JavaScript support it?
-53. How does JavaScript handle **infinite recursion**?
-54. How does **Promise chaining** work?
-55. How do you create a **polyfill** for `bind()`?
-56. How do you implement a **polyfill** for `call()` and `apply()`?
-57. How do **function decorators** work in JavaScript?
-58. How does the **new keyword** affect functions?
-59. What are **function mixins**, and how are they used?
-60. How can you implement a **lazy evaluation function**?
+36. [What is function composition](./36.%20What%20is%20function%20composition.md)  
+37. [How do JavaScript functions behave as first-class citizens](./37.%20How%20do%20JavaScript%20functions%20behave%20as%20first-class%20citizens.md)  
+38. [What is the difference between prototype methods and function methods](./38.%20What%20is%20the%20difference%20between%20prototype%20methods%20and%20function%20methods.md)  
+39. [How do you optimize function performance in JavaScript](./39.%20How%20do%20you%20optimize%20function%20performance%20in%20JavaScript.md)  
+40. [What is tail call optimization, and how does JavaScript handle it](./40.%20What%20is%20tail%20call%20optimization,%20and%20how%20does%20JavaScript%20handle%20it.md)  
+41. [How does JavaScript handle function context (this)](./41.%20How%20does%20JavaScript%20handle%20function%20context%20(this).md)  
+42. [How can you implement a custom debounce function](./42.%20How%20can%20you%20implement%20a%20custom%20debounce%20function.md)  
+43. [How can you implement a custom throttle function](./43.%20How%20can%20you%20implement%20a%20custom%20throttle%20function.md)  
+44. [What is event delegation, and how does it relate to functions](./44.%20What%20is%20event%20delegation,%20and%20how%20does%20it%20relate%20to%20functions.md)  
+45. [What is the difference between imperative and declarative function styles](./45.%20What%20is%20the%20difference%20between%20imperative%20and%20declarative%20function%20styles.md)  
+46. [What is function arity](./46.%20What%20is%20function%20arity.md)  
+47. [What are named vs unnamed function expressions](./47.%20What%20are%20named%20vs%20unnamed%20function%20expressions.md)  
+48. [How do you create a function that only runs once (once function)](./48.%20How%20do%20you%20create%20a%20function%20that%20only%20runs%20once%20(once%20function).md)  
+49. [What is method chaining, and how is it implemented](./49.%20What%20is%20method%20chaining,%20and%20how%20is%20it%20implemented.md)  
+50. [What is the difference between private and public functions in JavaScript](./50.%20What%20is%20the%20difference%20between%20private%20and%20public%20functions%20in%20JavaScript.md)  
+51. [What is the difference between var, let, and const when declaring functions](./51.%20What%20is%20the%20difference%20between%20var,%20let,%20and%20const%20when%20declaring%20functions.md)  
+52. [What is tail recursion, and does JavaScript support it](./52.%20What%20is%20tail%20recursion,%20and%20does%20JavaScript%20support%20it.md)  
+53. [How does JavaScript handle infinite recursion](./53.%20How%20does%20JavaScript%20handle%20infinite%20recursion.md)  
+54. [How does Promise chaining work](./54.%20How%20does%20Promise%20chaining%20work.md)  
+55. [How do you create a polyfill for bind](./55.%20How%20do%20you%20create%20a%20polyfill%20for%20bind.md)  
+56. [How do you implement a polyfill for call and apply](./56.%20How%20do%20you%20implement%20a%20polyfill%20for%20call%20and%20apply.md)  
+57. [How do function decorators work in JavaScript](./57.%20How%20do%20function%20decorators%20work%20in%20JavaScript.md)  
+58. [How does the new keyword affect functions](./58.%20How%20does%20the%20new%20keyword%20affect%20functions.md)  
+59. [What are function mixins, and how are they used](./59.%20What%20are%20function%20mixins,%20and%20how%20are%20they%20used.md)  
+60. [How can you implement a lazy evaluation function](./60.%20How%20can%20you%20implement%20a%20lazy%20evaluation%20function.md)  
