@@ -3,7 +3,7 @@
 38. [What is the difference between prototype methods and function methods](./38.%20What%20is%20the%20difference%20between%20prototype%20methods%20and%20function%20methods.md)  
 39. [How do you optimize function performance in JavaScript](./39.%20How%20do%20you%20optimize%20function%20performance%20in%20JavaScript.md)  
 40. [What is tail call optimization, and how does JavaScript handle it](./40.%20What%20is%20tail%20call%20optimization,%20and%20how%20does%20JavaScript%20handle%20it.md)  
-41. [How does JavaScript handle function context (this)](./41.%20How%20does%20JavaScript%20handle%20function%20context%20(this).md)  
+41. [How does JavaScript handle function context (this)](./41.%20How%20does%20JavaScript%20handle%20function%20context%20this.md)  
 42. [How can you implement a custom debounce function](./42.%20How%20can%20you%20implement%20a%20custom%20debounce%20function.md)  
 43. [How can you implement a custom throttle function](./43.%20How%20can%20you%20implement%20a%20custom%20throttle%20function.md)  
 44. [What is event delegation, and how does it relate to functions](./44.%20What%20is%20event%20delegation,%20and%20how%20does%20it%20relate%20to%20functions.md)  
