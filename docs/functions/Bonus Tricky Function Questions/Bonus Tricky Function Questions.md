@@ -1,25 +1,20 @@
-61. What will be the output of `console.log(typeof function() {})`?
-62. What is the output of:
-   ```js
-   function foo() {} 
-   var foo = 10; 
-   console.log(typeof foo);
-   ```
-63. What is the difference between `setTimeout` and `setImmediate`?
-64. How does function execution order work in **Event Loop**?
-65. What happens when you define a function inside a loop?
-66. What are **anonymous self-executing functions**?
-67. How do you determine the **arity** of a function?
-68. How does JavaScript handle **stack overflow** with recursive functions?
-69. What happens if a function has two return statements?
-70. How does function binding work with **setTimeout** and `this`?
-71. How does the `new` keyword affect function execution?
-72. How does JavaScript handle function execution in **strict mode**?
-73. How does the `super` keyword work in functions?
-74. Can you create **private functions** in JavaScript?
-75. What is a **proxy function**, and how do you use it?
-76. What happens if you call `bind()` twice on a function?
-77. How does `eval()` work with functions?
-78. What is the use of `Function.prototype.toString()`?
-79. Can functions be serialized in JavaScript?
-80. What is the difference between `typeof function` and `instanceof Function`?
+61. [What will be the output of `console.log(typeof function() {})`](./61.%20What%20will%20be%20the%20output%20of.md)  
+62. [What is the output of?](./62.%20What%20is%20the%20output%20of.md)  
+63. [What is the difference between `setTimeout` and `setImmediate`?](./63.%20What%20is%20the%20difference%20between%20setTimeout%20and%20setImmediate.md)  
+64. [How does function execution order work in **Event Loop**?](./64.%20How%20does%20function%20execution%20order%20work%20in%20Event%20Loop.md)  
+65. [What happens when you define a function inside a loop?](./65.%20What%20happens%20when%20you%20define%20a%20function%20inside%20a%20loop.md)  
+66. [What are **anonymous self-executing functions**?](./66.%20What%20are%20anonymous%20self-executing%20functions.md)  
+67. [How do you determine the **arity** of a function?](./67.%20How%20do%20you%20determine%20the%20arity%20of%20a%20function.md)  
+68. [How does JavaScript handle **stack overflow** with recursive functions?](./68.%20How%20does%20JavaScript%20handle%20stack%20overflow%20with%20recursive%20functions.md)  
+69. [What happens if a function has two return statements?](./69.%20What%20happens%20if%20a%20function%20has%20two%20return%20statements.md)  
+70. [How does function binding work with **setTimeout** and `this`?](./70.%20How%20does%20function%20binding%20work%20with%20setTimeout%20and%20this.md)  
+71. [How does the `new` keyword affect function execution?](./71.%20How%20does%20the%20new%20keyword%20affect%20function%20execution.md)  
+72. [How does JavaScript handle function execution in **strict mode**?](./72.%20How%20does%20JavaScript%20handle%20function%20execution%20in%20strict%20mode.md)  
+73. [How does the `super` keyword work in functions?](./73.%20How%20does%20the%20super%20keyword%20work%20in%20functions.md)  
+74. [Can you create **private functions** in JavaScript?](./74.%20Can%20you%20create%20private%20functions%20in%20JavaScript.md)  
+75. [What is a **proxy function**, and how do you use it?](./75.%20What%20is%20a%20proxy%20function%2C%20and%20how%20do%20you%20use%20it.md)  
+76. [What happens if you call `bind()` twice on a function?](./76.%20What%20happens%20if%20you%20call%20bind()%20twice%20on%20a%20function.md)  
+77. [How does `eval()` work with functions?](./77.%20How%20does%20eval()%20work%20with%20functions.md)  
+78. [What is the use of `Function.prototype.toString()`?](./78.%20What%20is%20the%20use%20of%20Function.prototype.toString().md)  
+79. [Can functions be serialized in JavaScript?](./79.%20Can%20functions%20be%20serialized%20in%20JavaScript.md)  
+80. [What is the difference between `typeof function` and `instanceof Function`?](./80.%20What%20is%20the%20difference%20between%20typeof%20function%20and%20instanceof%20Function.md)  
