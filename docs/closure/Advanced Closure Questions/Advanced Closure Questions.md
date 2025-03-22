@@ -1,1 +1,17 @@
 # Advanced Closure Questions -
+
+21. [What are IIFEs (Immediately Invoked Function Expressions), and how do they use closures?](./21.%20What%20are%20IIFEs%20Immediately%20Invoked%20Function%20Expressions%20and%20how%20do%20they%20use%20closures.md)  
+22. [Can you explain the classic for loop closure issue and how to fix it?](./22.%20Can%20you%20explain%20the%20classic%20for%20loop%20closure%20issue%20and%20how%20to%20fix%20it.md)  
+23. [How do closures work inside JavaScript classes?](./23.%20How%20do%20closures%20work%20inside%20JavaScript%20classes.md)  
+24. [What is the difference between closures and the this keyword?](./24.%20What%20is%20the%20difference%20between%20closures%20and%20the%20this%20keyword.md)  
+25. [How do closures work in map(), filter(), and reduce() functions?](./25.%20How%20do%20closures%20work%20in%20map()%2C%20filter()%2C%20and%20reduce()%20functions.md)  
+26. [Can closures be used to create a singleton pattern in JavaScript?](./26.%20Can%20closures%20be%20used%20to%20create%20a%20singleton%20pattern%20in%20JavaScript.md)  
+27. [How can closures be used to implement a module pattern?](./27.%20How%20can%20closures%20be%20used%20to%20implement%20a%20module%20pattern.md)  
+28. [What is a lexical environment, and how does it relate to closures?](./28.%20What%20is%20a%20lexical%20environment%2C%20and%20how%20does%20it%20relate%20to%20closures.md)  
+29. [How do closures affect garbage collection in JavaScript?](./29.%20How%20do%20closures%20affect%20garbage%20collection%20in%20JavaScript.md)  
+30. [Can you explain how closures help in function composition?](./30.%20Can%20you%20explain%20how%20closures%20help%20in%20function%20composition.md)  
+31. [How do closures behave in asynchronous JavaScript (Promises, async/await)?](./31.%20How%20do%20closures%20behave%20in%20asynchronous%20JavaScript%20Promises,%20asyncawait.md)  
+32. [Can closures be used to memoize functions? Provide an example.](./32.%20Can%20closures%20be%20used%20to%20memoize%20functions%3F%20Provide%20an%20example.md)  
+33. [How can closures be used to throttle or debounce functions?](./33.%20How%20can%20closures%20be%20used%20to%20throttle%20or%20debounce%20functions.md)  
+34. [What is the difference between a closure and a block scope?](./34.%20What%20is%20the%20difference%20between%20a%20closure%20and%20a%20block%20scope.md)  
+35. [How do closures work in functional programming concepts?](./35.%20How%20do%20closures%20work%20in%20functional%20programming%20concepts.md)  
