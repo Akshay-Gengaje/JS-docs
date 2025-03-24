@@ -1,0 +1,7 @@
+01. [What are higher-order functions in JavaScript?](./01.%20What%20are%20higher-order%20functions%20in%20JavaScript.md)  
+02. [How do higher-order functions improve code reusability and readability?](./02.%20How%20do%20higher-order%20functions%20improve%20code%20reusability%20and%20readability.md)  
+03. [Can you provide an example of a higher-order function?](./03.%20Can%20you%20provide%20an%20example%20of%20a%20higher-order%20function.md)  
+04. [How do higher-order functions differ from first-class functions?](./04.%20How%20do%20higher-order%20functions%20differ%20from%20first-class%20functions.md)  
+05. [How do closures relate to higher-order functions?](./05.%20How%20do%20closures%20relate%20to%20higher-order%20functions.md)  
+06. [What are some real-world use cases of higher-order functions?](./06.%20What%20are%20some%20real-world%20use%20cases%20of%20higher-order%20functions.md)  
+07. [What are the advantages and disadvantages of using higher-order functions?](./07.%20What%20are%20the%20advantages%20and%20disadvantages%20of%20using%20higher-order%20functions.md)  
