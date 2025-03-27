@@ -2,12 +2,12 @@
 
 Below are links to the Markdown files containing JavaScript function-related questions:
 
-1. [What is a function in JavaScript?](./01._What_is_a_function_in_JavaScript.md)
+1. [What is a function in JavaScript?](01._What_is_a_function_in_JavaScript.md)
 2. [How do you define a function in JavaScript?](02._How_do_you_define_a_function_in_JavaScript.md)
 3. [What are the different ways to declare a function in JavaScript?](03._What_are_the_different_ways_to_declare_a_function_in_JavaScript.md)
 4. [What is the difference between function declaration and function expression?](04._What_is_the_difference_between_function_declaration_and_function_expression.md)
 5. [What is an anonymous function?](05._What_is_an_anonymous_function.md)
-6. [What is an arrow function? How is it different from a regular function?](06._What_is_an_arrow_function%3F_How_is_it_different_from_a_regular_function%3F.md)
+6. [What is an arrow function? How is it different from a regular function?](06._What_is_an_arrow_function_How_is_it_different_from_a_regular_function.md)
 7. [What is a callback function?](07._What_is_a_callback_function.md)
 8. [What is the purpose of the return statement in functions?](08._What_is_the_purpose_of_the_return_statement_in_functions.md)
 9. [Can a function return multiple values in JavaScript?](09._Can_a_function_return_multiple_values_in_JavaScript.md)

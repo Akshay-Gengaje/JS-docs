@@ -14,7 +14,7 @@ Here’s a **7-day JavaScript Interview Preparation Roadmap** in table format wi
 |           | [Functions](./category/functions)                           | Function Declarations, Expressions, Arrow Functions, IIFE         | ⭐⭐⭐     |
 |           | Scope & Hoisting                                            | Global vs Local Scope, Function Scope, Block Scope, Lexical Scope | ⭐⭐⭐     |
 | **Day 2** | **Advanced JavaScript Concepts**                            | [Closures](./category/closure), Currying, Memoization             | ⭐⭐⭐     |
-|           | [Higher-Order Functions](./category/higher-order-functions) | [map()](./higher%20order%20functions/map()/), [filter()](./higher%20order%20functions/filter()/), `reduce()`, `forEach()`                  | ⭐⭐⭐     |
+|           | [Higher-Order Functions](./category/higher-order-functions) | [map()](./higher-order-functions/map/), [filter()](./higher-order-functions/filter/), `reduce()`, `forEach()`                  | ⭐⭐⭐     |
 |           | Callbacks & Promises                                        | Callback Hell, Promises, `then()`, `catch()`, `finally()`         | ⭐⭐⭐     |
 |           | Async/Await                                                 | Event Loop, Microtasks vs Macrotasks                              | ⭐⭐⭐     |
 |           | Error Handling                                              | `try-catch`, Custom Errors, Debugging                             | ⭐⭐       |

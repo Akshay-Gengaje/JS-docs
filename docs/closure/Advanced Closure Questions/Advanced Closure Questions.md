@@ -11,7 +11,7 @@
 29. [How do closures affect garbage collection in JavaScript?](./29._How_do_closures_affect_garbage_collection_in_JavaScript.md)  
 30. [Can you explain how closures help in function composition?](./30._Can_you_explain_how_closures_help_in_function_composition.md)  
 31. [How do closures behave in asynchronous JavaScript (Promises, async/await)?](./31._How_do_closures_behave_in_asynchronous_JavaScript_Promises,_asyncawait.md)  
-32. [Can closures be used to memoize functions? Provide an example.](./32._Can_closures_be_used_to_memoize_functions%3F_Provide_an_example.md)  
+32. [Can closures be used to memoize functions? Provide an example.](./32._Can_closures_be_used_to_memoize_functions_Provide_an_example..md)  
 33. [How can closures be used to throttle or debounce functions?](./33._How_can_closures_be_used_to_throttle_or_debounce_functions.md)  
 34. [What is the difference between a closure and a block scope?](./34._What_is_the_difference_between_a_closure_and_a_block_scope.md)  
 35. [How do closures work in functional programming concepts?](./35._How_do_closures_work_in_functional_programming_concepts.md)  
